@@ -13,3 +13,11 @@
 E fout
 A fout
 S fout
+V Goed
+K Goed
+T Fout
+B Fout
+R Goed
+O Goed
+Vork Goed
+
